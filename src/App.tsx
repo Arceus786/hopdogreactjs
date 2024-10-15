@@ -52,7 +52,7 @@ function App() {
         
         <main>
           <section className="welcome-section">
-            <img src="https://imgur.com/gbVwxYb" alt="Hopdog Logo" className="logo" />
+            <img src="https://imgur.com/gbVwxYb.png" alt="Hopdog Logo" className="logo" />
             <h2 className="text-shadow">Welcome to Hopdog</h2>
             <p className="text-shadow description">The next generation meme coin on the blockchain.</p>
             <button className="buy-button">Buy Hopdog</button>
